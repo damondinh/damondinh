@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Emissions Analysis (Console App)](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Vampire Simulation (Console App](https://github.com/joshmadakor1/Jwipe.PowerShell)
