@@ -3,15 +3,15 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [Practicing DSA in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DSA in Python](https://github.com/damondinh/DSA-in-Python)
 - <b>Python</b>
-  - [Emissions Analysis (Console App)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Vampire Simulation (Console App](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Emissions Analysis (Console App)](https://github.com/damondinh/DSA-in-Python)
+  - [Vampire Simulation (Console App](https://github.com/damondinh/DSA-in-Python)
 - <b>Unix and C</b>
-  - [Book Store (Console App)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Zombie Maze Game (Console App)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Book Store (Console App)](https://github.com/damondinh/DSA-in-Python)
+  - [Zombie Maze Game (Console App)](https://github.com/damondinh/DSA-in-Python)
 - <b>Java</b>
-  - [Library (Console App)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Library (Console App)](https://github.com/damondinh/DSA-in-Python)
 
 <h2> 🤳 Connect with me:</h2>
 
