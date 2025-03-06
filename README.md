@@ -8,7 +8,7 @@
   - [Emissions Analysis (Console App)](https://github.com/damondinh/DSA-in-Python)
   - [Vampire Simulation (Console App](https://github.com/damondinh/DSA-in-Python)
 - <b>Unix and C</b>
-  - [Book Store (Console App)](https://github.com/damondinh/DSA-in-Python)
+  - [Book Store (Console App)](https://github.com/damondinh/Library-Console-App)
   - [Zombie Maze Game (Console App)](https://github.com/damondinh/DSA-in-Python)
 - <b>Java</b>
   - [Library (Console App)](https://github.com/damondinh/DSA-in-Python)
